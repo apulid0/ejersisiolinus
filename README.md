@@ -145,6 +145,8 @@ editamos  /etc/rc.local y le añadimos lo siguiente delante de Exit 0:
 ~~~   
 sh /home/usuario/router.sh  
 
+
+
 # <center>**CONFIGURACION DE 4 SERVIDORES WEB CON APACHE 2 Y USUARIOS**</center>
   1. configuramos la Tarjeta de red estaticamente, por si reinicias que el servidor,el dhcp del router no te de otra ip  
 `sudo nano /etc/network/interfaces`
