@@ -506,9 +506,8 @@ MUESTRAS:
 
 Adjunto capturas de pantalla de www.gato.com | www.mosquito.com | www.escherichiacoli.es | www.chip555.org
 
-![www.gato.com](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20197.JPG)
-![www.mosquito.com](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20196.JPG)
-![www.escherichiacoli.es](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20192.JPG)
-![www.escherichiacoli.es](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20194.JPG)
-![www.chip555.org](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20193.JPG)
-![www.chip555.org](https://github.com/xus17/Servidor-Apache/blob/master/Captura%20195.JPG)
+![www.gato.com](https://github.com/apulid0/ejersisiolinus/blob/master/gato.png)
+![www.mosquito.com](https://github.com/apulid0/ejersisiolinus/blob/master/mosquito.PNG)
+![www.escherichiacoli.es](https://github.com/apulid0/ejersisiolinus/blob/master/bac.PNG)
+![www.chip555.org](https://github.com/apulid0/ejersisiolinus/blob/master/bac.PNG)
+
