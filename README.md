@@ -509,5 +509,5 @@ Adjunto capturas de pantalla de www.gato.com | www.mosquito.com | www.escherichi
 ![www.gato.com](https://github.com/apulid0/ejersisiolinus/blob/master/gato.png)
 ![www.mosquito.com](https://github.com/apulid0/ejersisiolinus/blob/master/mosquito.PNG)
 ![www.escherichiacoli.es](https://github.com/apulid0/ejersisiolinus/blob/master/bac.PNG)
-![www.chip555.org](https://github.com/apulid0/ejersisiolinus/blob/master/bac.PNG)
+![www.chip555.org](https://github.com/apulid0/ejersisiolinus/blob/master/eeeee.PNG)
 
